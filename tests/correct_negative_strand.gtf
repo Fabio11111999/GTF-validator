@@ -1,0 +1,12 @@
+140	Twinscan	start_codon	27	28	.	-	2	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	start_codon	30	30	.	-	0	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	CDS	10	10	.	-	1	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	CDS	14	22	.	-	1	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	CDS	25	28	.	-	2	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	CDS	30	30	.	-	0	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	stop_codon	9	9	.	-	0	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	stop_codon	6	7	.	-	2	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	3UTR	1	1	.	-	.	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	3UTR	2	5	.	-	.	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	5UTR	39	40	.	-	.	gene_id "140.000"; transcript_id "140.000.1";
+140	Twinscan	5UTR	70	80	.	-	.	gene_id "140.000"; transcript_id "140.000.1";
