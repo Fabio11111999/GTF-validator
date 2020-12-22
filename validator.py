@@ -1,4 +1,4 @@
-# @Author: Fabio Marchesi mtr 844841
+# @Author: Fabio Marchesi mtr 844941
 # GTF-validator 
 # GTF syntax: <seqname> <source> <feature> <start> <end> <score> <strand> <frame> [attributes] [comments]
 
